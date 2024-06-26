@@ -5,3 +5,4 @@ test('Converting string to title case', () => {
   expect(titleCase('javascript programming')).toBe('Javascript Programming');
   expect(titleCase('openai chatbot')).toBe('Openai Chatbot');
 });
+  
